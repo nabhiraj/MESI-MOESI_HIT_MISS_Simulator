@@ -1,0 +1,166 @@
+number of hits in l1 cache are as follow
+ --------------------for core 0----------------------------
+for l1 hits core 0 : 41368105
+for l1 miss core 0 : 842029
+
+------------------------
+for l2 hits core 0 : 12107251
+for l2 miss core 0 : 825902
+coherency miss in l2 :: 4331
+
+
+--------------------for core 1----------------------------
+for l1 hits core 1 : 3172
+for l1 miss core 1 : 315
+
+------------------------
+for l2 hits core 1 : 1049
+for l2 miss core 1 : 315
+coherency miss in l2 :: 25
+
+
+--------------------for core 2----------------------------
+for l1 hits core 2 : 1877
+for l1 miss core 2 : 395
+
+------------------------
+for l2 hits core 2 : 666
+for l2 miss core 2 : 395
+coherency miss in l2 :: 88
+
+
+--------------------for core 3----------------------------
+for l1 hits core 3 : 469548530
+for l1 miss core 3 : 8915941
+
+------------------------
+for l2 hits core 3 : 112263956
+for l2 miss core 3 : 4024829
+coherency miss in l2 :: 7726
+
+
+--------------------for core 4----------------------------
+for l1 hits core 4 : 452365585
+for l1 miss core 4 : 8558386
+
+------------------------
+for l2 hits core 4 : 108163185
+for l2 miss core 4 : 3870364
+coherency miss in l2 :: 7828
+
+
+--------------------for core 5----------------------------
+for l1 hits core 5 : 0
+for l1 miss core 5 : 1
+
+------------------------
+for l2 hits core 5 : 0
+for l2 miss core 5 : 1
+coherency miss in l2 :: 0
+
+
+--------------------for core 6----------------------------
+for l1 hits core 6 : 0
+for l1 miss core 6 : 0
+
+------------------------
+for l2 hits core 6 : 0
+for l2 miss core 6 : 0
+coherency miss in l2 :: 0
+
+
+--------------------for core 7----------------------------
+for l1 hits core 7 : 0
+for l1 miss core 7 : 0
+
+------------------------
+for l2 hits core 7 : 0
+for l2 miss core 7 : 0
+coherency miss in l2 :: 0
+
+
+--------------------------llc----------------------------------------
+hits in llc : 8368593
+miss in llc : 341049
+
+state transition in the given simulation------------------------------------------------------------------------ 
+-------------------------for core 0------------------------------------------
+for M to O ::1514
+for M to I ::54
+for O to M ::17
+for O to I ::1457
+for E to M ::4439
+for E to S ::482
+for E to I ::97
+for S to M ::1992
+for S to I ::3301
+-------------------------for core 1------------------------------------------
+for M to O ::30
+for M to I ::1
+for O to M ::0
+for O to I ::26
+for E to M ::24
+for E to S ::17
+for E to I ::1
+for S to M ::53
+for S to I ::17
+-------------------------for core 2------------------------------------------
+for M to O ::67
+for M to I ::27
+for O to M ::0
+for O to I ::63
+for E to M ::22
+for E to S ::22
+for E to I ::29
+for S to M ::54
+for S to I ::103
+-------------------------for core 3------------------------------------------
+for M to O ::4728
+for M to I ::6431
+for O to M ::339
+for O to I ::1955
+for E to M ::588965
+for E to S ::284297
+for E to I ::149
+for S to M ::2550
+for S to I ::785
+-------------------------for core 4------------------------------------------
+for M to O ::4815
+for M to I ::6748
+for O to M ::817
+for O to I ::2029
+for E to M ::571437
+for E to S ::289988
+for E to I ::821
+for S to M ::2368
+for S to I ::551
+-------------------------for core 5------------------------------------------
+for M to O ::0
+for M to I ::0
+for O to M ::0
+for O to I ::0
+for E to M ::0
+for E to S ::0
+for E to I ::1
+for S to M ::0
+for S to I ::0
+-------------------------for core 6------------------------------------------
+for M to O ::0
+for M to I ::0
+for O to M ::0
+for O to I ::0
+for E to M ::0
+for E to S ::0
+for E to I ::0
+for S to M ::0
+for S to I ::0
+-------------------------for core 7------------------------------------------
+for M to O ::0
+for M to I ::0
+for O to M ::0
+for O to I ::0
+for E to M ::0
+for E to S ::0
+for E to I ::0
+for S to M ::0
+for S to I ::0

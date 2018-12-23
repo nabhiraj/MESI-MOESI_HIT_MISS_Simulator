@@ -1,0 +1,166 @@
+number of hits in l1 cache are as follow
+ --------------------for core 0----------------------------
+for l1 hits core 0 : 26815917
+for l1 miss core 0 : 375436
+
+------------------------
+for l2 hits core 0 : 7278187
+for l2 miss core 0 : 352460
+coherency miss in l2 :: 9703
+
+
+--------------------for core 1----------------------------
+for l1 hits core 1 : 62660953
+for l1 miss core 1 : 2296657
+
+------------------------
+for l2 hits core 1 : 14326106
+for l2 miss core 1 : 113333
+coherency miss in l2 :: 18479
+
+
+--------------------for core 2----------------------------
+for l1 hits core 2 : 61727179
+for l1 miss core 2 : 2244903
+
+------------------------
+for l2 hits core 2 : 13934351
+for l2 miss core 2 : 78653
+coherency miss in l2 :: 13211
+
+
+--------------------for core 3----------------------------
+for l1 hits core 3 : 62037902
+for l1 miss core 3 : 2253935
+
+------------------------
+for l2 hits core 3 : 14017919
+for l2 miss core 3 : 77924
+coherency miss in l2 :: 12664
+
+
+--------------------for core 4----------------------------
+for l1 hits core 4 : 62344022
+for l1 miss core 4 : 2278491
+
+------------------------
+for l2 hits core 4 : 14124201
+for l2 miss core 4 : 79114
+coherency miss in l2 :: 13848
+
+
+--------------------for core 5----------------------------
+for l1 hits core 5 : 8149987
+for l1 miss core 5 : 139990
+
+------------------------
+for l2 hits core 5 : 2071112
+for l2 miss core 5 : 118656
+coherency miss in l2 :: 27
+
+
+--------------------for core 6----------------------------
+for l1 hits core 6 : 0
+for l1 miss core 6 : 0
+
+------------------------
+for l2 hits core 6 : 0
+for l2 miss core 6 : 0
+coherency miss in l2 :: 0
+
+
+--------------------for core 7----------------------------
+for l1 hits core 7 : 0
+for l1 miss core 7 : 0
+
+------------------------
+for l2 hits core 7 : 0
+for l2 miss core 7 : 0
+coherency miss in l2 :: 0
+
+
+--------------------------llc----------------------------------------
+hits in llc : 593150
+miss in llc : 162040
+
+state transition in the given simulation------------------------------------------------------------------------ 
+-------------------------for core 0------------------------------------------
+for M to O ::10521
+for M to I ::284
+for O to M ::573
+for O to I ::3656
+for E to M ::54008
+for E to S ::1547
+for E to I ::2591
+for S to M ::839
+for S to I ::4899
+-------------------------for core 1------------------------------------------
+for M to O ::4809
+for M to I ::21545
+for O to M ::2283
+for O to I ::2070
+for E to M ::5613
+for E to S ::6953
+for E to I ::81
+for S to M ::2793
+for S to I ::2273
+-------------------------for core 2------------------------------------------
+for M to O ::11197
+for M to I ::4927
+for O to M ::532
+for O to I ::3223
+for E to M ::5491
+for E to S ::5702
+for E to I ::152
+for S to M ::2787
+for S to I ::6443
+-------------------------for core 3------------------------------------------
+for M to O ::12720
+for M to I ::5681
+for O to M ::2286
+for O to I ::3246
+for E to M ::5362
+for E to S ::6571
+for E to I ::357
+for S to M ::3469
+for S to I ::4603
+-------------------------for core 4------------------------------------------
+for M to O ::10357
+for M to I ::5644
+for O to M ::267
+for O to I ::3600
+for E to M ::5419
+for E to S ::6441
+for E to I ::216
+for S to M ::3437
+for S to I ::5709
+-------------------------for core 5------------------------------------------
+for M to O ::53
+for M to I ::20
+for O to M ::11
+for O to I ::26
+for E to M ::6844
+for E to S ::52
+for E to I ::0
+for S to M ::44
+for S to I ::10
+-------------------------for core 6------------------------------------------
+for M to O ::0
+for M to I ::0
+for O to M ::0
+for O to I ::0
+for E to M ::0
+for E to S ::0
+for E to I ::0
+for S to M ::0
+for S to I ::0
+-------------------------for core 7------------------------------------------
+for M to O ::0
+for M to I ::0
+for O to M ::0
+for O to I ::0
+for E to M ::0
+for E to S ::0
+for E to I ::0
+for S to M ::0
+for S to I ::0

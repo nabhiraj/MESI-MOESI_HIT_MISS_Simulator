@@ -1,0 +1,108 @@
+Reading finished
+Core_id:0
+L1_HITS:26815998
+L1_MISSES:375355
+L2_HITS:23502
+L2_MISSES:351853
+m_to_i:291
+e_to_i:3364
+s_to_i:9154
+m_to_s:9717
+e_to_s:1503
+e_to_m:53331
+s_to_m:2308
+coherence misses:11040
+Core_id:1
+L1_HITS:62660439
+L1_MISSES:2297171
+L2_HITS:2153419
+L2_MISSES:143752
+m_to_i:21336
+e_to_i:101
+s_to_i:4874
+m_to_s:5346
+e_to_s:8096
+e_to_m:5532
+s_to_m:5284
+coherence misses:18489
+Core_id:2
+L1_HITS:61726623
+L1_MISSES:2245459
+L2_HITS:2136229
+L2_MISSES:109230
+m_to_i:4931
+e_to_i:215
+s_to_i:10187
+m_to_s:11435
+e_to_s:6703
+e_to_m:5356
+s_to_m:3513
+coherence misses:13499
+Core_id:3
+L1_HITS:62037531
+L1_MISSES:2254306
+L2_HITS:2140633
+L2_MISSES:113673
+m_to_i:5715
+e_to_i:402
+s_to_i:8336
+m_to_s:12756
+e_to_s:7443
+e_to_m:5320
+s_to_m:5896
+coherence misses:13022
+Core_id:4
+L1_HITS:62343360
+L1_MISSES:2279153
+L2_HITS:2162687
+L2_MISSES:116466
+m_to_i:5657
+e_to_i:235
+s_to_i:9931
+m_to_s:10473
+e_to_s:7427
+e_to_m:5271
+s_to_m:3852
+coherence misses:14282
+Core_id:5
+L1_HITS:8149987
+L1_MISSES:139990
+L2_HITS:21372
+L2_MISSES:118618
+m_to_i:21
+e_to_i:3
+s_to_i:72
+m_to_s:1932
+e_to_s:19
+e_to_m:6916
+s_to_m:66
+coherence misses:26
+Core_id:6
+L1_HITS:0
+L1_MISSES:0
+L2_HITS:0
+L2_MISSES:0
+m_to_i:0
+e_to_i:0
+s_to_i:0
+m_to_s:0
+e_to_s:0
+e_to_m:0
+s_to_m:0
+coherence misses:0
+Core_id:7
+L1_HITS:0
+L1_MISSES:0
+L2_HITS:0
+L2_MISSES:0
+m_to_i:0
+e_to_i:0
+s_to_i:0
+m_to_s:0
+e_to_s:0
+e_to_m:0
+s_to_m:0
+coherence misses:0
+LLC_HITS:822517
+LLC_MISSES:131075
+Coherence Invalidations: 61616

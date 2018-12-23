@@ -1,0 +1,166 @@
+number of hits in l1 cache are as follow
+ --------------------for core 0----------------------------
+for l1 hits core 0 : 4938014
+for l1 miss core 0 : 47280
+
+------------------------
+for l2 hits core 0 : 1813526
+for l2 miss core 0 : 38257
+coherency miss in l2 :: 2129
+
+
+--------------------for core 1----------------------------
+for l1 hits core 1 : 145611401
+for l1 miss core 1 : 5298552
+
+------------------------
+for l2 hits core 1 : 7163118
+for l2 miss core 1 : 1949866
+coherency miss in l2 :: 575381
+
+
+--------------------for core 2----------------------------
+for l1 hits core 2 : 145147519
+for l1 miss core 2 : 5257883
+
+------------------------
+for l2 hits core 2 : 6803430
+for l2 miss core 2 : 1961581
+coherency miss in l2 :: 584153
+
+
+--------------------for core 3----------------------------
+for l1 hits core 3 : 145057426
+for l1 miss core 3 : 5234548
+
+------------------------
+for l2 hits core 3 : 6896369
+for l2 miss core 3 : 1811414
+coherency miss in l2 :: 581498
+
+
+--------------------for core 4----------------------------
+for l1 hits core 4 : 144783654
+for l1 miss core 4 : 5264359
+
+------------------------
+for l2 hits core 4 : 6668636
+for l2 miss core 4 : 2010790
+coherency miss in l2 :: 579801
+
+
+--------------------for core 5----------------------------
+for l1 hits core 5 : 2415
+for l1 miss core 5 : 101
+
+------------------------
+for l2 hits core 5 : 714
+for l2 miss core 5 : 101
+coherency miss in l2 :: 30
+
+
+--------------------for core 6----------------------------
+for l1 hits core 6 : 1689
+for l1 miss core 6 : 92
+
+------------------------
+for l2 hits core 6 : 413
+for l2 miss core 6 : 92
+coherency miss in l2 :: 26
+
+
+--------------------for core 7----------------------------
+for l1 hits core 7 : 1607
+for l1 miss core 7 : 85
+
+------------------------
+for l2 hits core 7 : 386
+for l2 miss core 7 : 85
+coherency miss in l2 :: 21
+
+
+--------------------------llc----------------------------------------
+hits in llc : 4618821
+miss in llc : 21053
+
+state transition in the given simulation------------------------------------------------------------------------ 
+-------------------------for core 0------------------------------------------
+for M to O ::3814
+for M to I ::51
+for O to M ::37
+for O to I ::2097
+for E to M ::7101
+for E to S ::109
+for E to I ::1
+for S to M ::96
+for S to I ::7
+-------------------------for core 1------------------------------------------
+for M to O ::497134
+for M to I ::31732
+for O to M ::25252
+for O to I ::467769
+for E to M ::8850
+for E to S ::61361
+for E to I ::6
+for S to M ::470532
+for S to I ::76669
+-------------------------for core 2------------------------------------------
+for M to O ::494461
+for M to I ::33068
+for O to M ::25904
+for O to I ::467531
+for E to M ::3989
+for E to S ::57499
+for E to I ::2
+for S to M ::464808
+for S to I ::83667
+-------------------------for core 3------------------------------------------
+for M to O ::492821
+for M to I ::32902
+for O to M ::25651
+for O to I ::465971
+for E to M ::3767
+for E to S ::45320
+for E to I ::2
+for S to M ::463447
+for S to I ::82743
+-------------------------for core 4------------------------------------------
+for M to O ::490419
+for M to I ::31821
+for O to M ::24607
+for O to I ::465389
+for E to M ::2707
+for E to S ::58697
+for E to I ::2
+for S to M ::461614
+for S to I ::82710
+-------------------------for core 5------------------------------------------
+for M to O ::20
+for M to I ::10
+for O to M ::0
+for O to I ::16
+for E to M ::0
+for E to S ::7
+for E to I ::0
+for S to M ::20
+for S to I ::20
+-------------------------for core 6------------------------------------------
+for M to O ::18
+for M to I ::7
+for O to M ::1
+for O to I ::16
+for E to M ::0
+for E to S ::1
+for E to I ::0
+for S to M ::16
+for S to I ::20
+-------------------------for core 7------------------------------------------
+for M to O ::19
+for M to I ::2
+for O to M ::1
+for O to I ::16
+for E to M ::0
+for E to S ::0
+for E to I ::0
+for S to M ::15
+for S to I ::19
